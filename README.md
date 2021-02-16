@@ -5,7 +5,7 @@ For CS 200 I completed 2 larger projects of worth mentioning. Known as BP1 and B
 
 
 BP1:
-This was a gamed modeled after Sokoban [Game description](https://en.wikipedia.org/wiki/Sokoban). Given this was
+This was a game modeled after Sokoban [Game description](https://en.wikipedia.org/wiki/Sokoban). Given this was
 the first major cs project there were no graphics plugins. We used ASCII character to represent boxes and where
 they should be pushed to. The game board was described in a three dimensional array.
 
